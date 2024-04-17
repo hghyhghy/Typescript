@@ -1,4 +1,4 @@
-               
+                
 This is a typescript  initializer
 
 To install typesript globally run 
